@@ -1,2 +1,2 @@
 # CASIO-CalC
-A simple calculator 
+A simple calculator  made with just HTML and CSS!! 
